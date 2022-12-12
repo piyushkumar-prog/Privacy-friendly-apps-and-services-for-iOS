@@ -21,6 +21,22 @@ __________________________
 
 __________________________________________
 
+☆ 𝗕𝗲𝘀𝘁 𝗦𝗲𝗮𝗿𝗰𝗵 𝗘𝗻𝗴𝗶𝗻𝗲<img src="https://cdn-icons-png.flaticon.com/512/954/954591.png" width="20" height="20"/>:
+
+• <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/brave_browser_logo_icon_153013.png" width="20" height="20"/> <a href="https://search.brave.com/">Brave Search</a>🇺🇲 ⭐
+
+
+• <img src="https://logodix.com/logo/48248.png" width="20" height="20"/> <a href="https://duckduckgo.com/">DuckDuckGo</a>🇺🇲 ⭐👑
+
+
+• <img src="https://www.startpage.com/startpageblog/wp-content/uploads/2021/05/linkedin-profile-image.png" width="20" height="20"/> <a href="https://www.startpage.com/">Startpage</a>🇳🇱
+
+• <img src="https://gitlab.com/uploads/-/system/project/avatar/26743398/android-icon-192x192.png" width="20" height="20"/> <a href="https://search.albony.xyz/?cookies_disabled=1">Whoogle</a>🌍
+
+• <img src="https://opencollective-production.s3.us-west-1.amazonaws.com/990b2ff0-53d8-11ea-81ed-c3ccfe6a8efe.png" width="20" height="20"/><a href="https://searx.space/#">SearX</a>🌍
+
+__________________________________________
+
 ☆𝗕𝗲𝘀𝘁 𝗘𝗺𝗮𝗶𝗹 𝗣𝗿𝗼𝘃𝗶𝗱𝗲𝗿:
 
 • <img src="https://proton.me/static/proton-mail-badge-0e258be9edc6287a49fd01558c106073.svg" width="20" height="20"/>[Proton Mail](https://apps.apple.com/app/protonmail-encrypted-email/id979659905)⭐👑
